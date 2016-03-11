@@ -430,7 +430,7 @@
 <distributionManagement>
  <repository>
    <id>releases</id>
-   <url>http://192.168.56.1:8001/nexus/content/repositories/releases/</url>
+   <url>http://192.168.56.1:8081/nexus/content/repositories/releases/</url>
  </repository>
  <snapshotRepository>
    <id>snapshots</id>
